@@ -22,6 +22,7 @@
   - Hindi
   - Spanish
   - Urdu
+  - Russian
 
 ### An example of my skills 
 
