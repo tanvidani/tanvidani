@@ -2,11 +2,6 @@
 ### MA IPCR, American University
 
 #### I study International Peace and Conflict Resolution and am passionate and *love* a data analysis challenge to keep me up at night.
-Another thing about me
-
-more lines
-
-I wrote this as 4 separate lines
 
 ### Skills 
 - Software 
@@ -22,14 +17,17 @@ I wrote this as 4 separate lines
   - Data wrangling
   - Data transformation
   - Data cleaning/tidying
-
-`in line code`
-
-`ggplot(data = x, aes(y=var1))`
+- Lanugage skills
+  - Marathi
+  - Hindi
+  - Spanish
+  - Urdu
 
 ### An example of my skills 
 
 Here's some code I wrote in `R`:
+
+`ggplot(data = x, aes(y=var1))`
 
 ```
 zim %<>%
@@ -53,11 +51,7 @@ mean(x$var1)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning R, RMarkdown, Conflict Analysis, Economics, Spanish
+- 📫 How to reach me: dani.tanvi@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am a Hindustani classical singer and harmonium player
